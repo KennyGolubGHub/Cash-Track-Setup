@@ -1,15 +1,11 @@
-# Cash Track
+# Cash Track for Windows
 
-Windows checkbook and ledger.
+**Download the installer only.** Do not use GitHub's "Source code" zip or tar.gz links — those are not the program.
 
-## Download
+[Download CashTrack-Setup-1.3.0.zip](https://github.com/KennyGolubGHub/Cash-Track-Setup/releases/download/v1.3.0/CashTrack-Setup-1.3.0.zip)
 
-Get the installer from [Releases](https://github.com/KennyGolubGHub/Cash-Track-Setup/releases/latest).
-
-1. Download `CashTrack-Setup-1.3.0.zip`.
-2. Unzip it. Keep `Cash Track Setup.exe` and the `payload` folder together.
+1. Unzip the file.
+2. Keep `Cash Track Setup.exe` and the `payload` folder together.
 3. Run **Cash Track Setup.exe**.
 
-The installer is for your Windows user (no Administrator). If you do not already have a ledger, Setup can create empty Checking, Savings, Cash, and Credit Card accounts under Documents\Ledger. Existing ledgers are not replaced.
-
-Windows may warn that the app is unrecognized because it is not code-signed.
+This page is a download location. The application source is not published here.
