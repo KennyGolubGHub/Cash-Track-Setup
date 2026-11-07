@@ -2,7 +2,7 @@
 
 **Download the installer only.** Do not use GitHub's "Source code" zip or tar.gz links — those are not the program.
 
-[Download Cash Track 1.7.7](https://github.com/KennyGolubGHub/Cash-Track-Setup/releases/download/v1.7.7/CashTrack-Setup-1.7.7.zip)
+[Download Cash Track 1.7.8](https://github.com/KennyGolubGHub/Cash-Track-Setup/releases/download/v1.7.8/CashTrack-Setup-1.7.8.zip)
 
 1. Unzip the file.
 2. Keep `Cash Track Setup.exe` and the `payload` folder together.
